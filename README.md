@@ -35,39 +35,30 @@ src/
 
 ## Como executar o projeto
 
-1. Clonar o repositório
-```bash
-git clone https://github.com/igor-gomes/catalogo-mobile-react-native.git
-```
+- 1. Clonar o repositório
+  git clone https://github.com/igor-gomes/catalogo-mobile-react-native.git
 
-2. Entrar na pasta
-cd catalogo-mobile
+- 2. Entrar na pasta
+  cd catalogo-mobile
 
+- 3. Instalar dependências
+  npm install
 
-3. Instalar dependências
+- 4. Executar o projeto
+  npx expo start
 
-
-npm install
-
-
-4. Executar o projeto
-
-
-npx expo start
-
-
-5. Abrir no celular com o aplicativo **Expo Go**.
+- 5. Abrir no celular com o aplicativo **Expo Go**.
 
 ## API utilizada
-
+```bash
 https://dummyjson.com
-
+```
 ## Autor
-
 Igor Gomes
 
 Depois rode:
-
+```bash
 git add .
 git commit -m "Atualizando README do projeto"
 git push
+```
