@@ -35,19 +35,19 @@ src/
 
 ## Como executar o projeto
 
-- 1. Clonar o repositório
+1. Clonar o repositório
   git clone https://github.com/igor-gomes/catalogo-mobile-react-native.git
 
-- 2. Entrar na pasta
+2. Entrar na pasta
   cd catalogo-mobile
 
-- 3. Instalar dependências
+3. Instalar dependências
   npm install
 
-- 4. Executar o projeto
+4. Executar o projeto
   npx expo start
 
-- 5. Abrir no celular com o aplicativo **Expo Go**.
+5. Abrir no celular com o aplicativo **Expo Go**.
 
 ## API utilizada
 ```bash
