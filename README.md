@@ -53,6 +53,21 @@ src/
 ```bash
 https://dummyjson.com
 ```
+
+## Prints do aplicativo
+
+### Tela de Login
+(insira aqui um print)
+
+### Listagem de Produtos - Masculino
+(insira aqui um print)
+
+### Listagem de Produtos - Feminino
+(insira aqui um print)
+
+### Tela de Detalhes do Produto
+(insira aqui um print)
+
 ## Autor
 Igor Gomes
 
