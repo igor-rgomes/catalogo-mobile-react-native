@@ -22,3 +22,52 @@ Aplicativo mobile desenvolvido em React Native com Expo para apresentar produtos
 - React Navigation
 
 ## Estrutura do projeto
+
+```bash
+src/
+├ components
+├ screens
+├ navigation
+├ services
+├ data
+└ store
+```
+
+## Como executar o projeto
+
+1. Clonar o repositório
+```bash
+git clone https://github.com/igor-gomes/catalogo-mobile-react-native.git
+```
+
+2. Entrar na pasta
+cd catalogo-mobile
+
+
+3. Instalar dependências
+
+
+npm install
+
+
+4. Executar o projeto
+
+
+npx expo start
+
+
+5. Abrir no celular com o aplicativo **Expo Go**.
+
+## API utilizada
+
+https://dummyjson.com
+
+## Autor
+
+Igor Gomes
+
+Depois rode:
+
+git add .
+git commit -m "Atualizando README do projeto"
+git push
