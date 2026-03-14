@@ -57,16 +57,16 @@ https://dummyjson.com
 ## Prints do aplicativo
 
 ### Tela de Login
-(insira aqui um print)
+![Tela de Login](screenshots/login.png)
 
-### Listagem de Produtos - Masculino
-(insira aqui um print)
+### Listagem Masculino
+![Produtos Masculinos](screenshots/masculino.png)
 
-### Listagem de Produtos - Feminino
-(insira aqui um print)
+### Listagem Feminino
+![Produtos Femininos](screenshots/feminino.png)
 
-### Tela de Detalhes do Produto
-(insira aqui um print)
+### Tela de Detalhes
+![Detalhes](screenshots/detalhes.png)
 
 ## Autor
 Igor Gomes
