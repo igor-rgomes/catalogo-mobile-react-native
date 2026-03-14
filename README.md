@@ -1,4 +1,4 @@
-# Catálogo Interativo Mobile com React Native
+# Catálogo Interativo Mobile com React Native e Expo
 
 Aplicativo mobile desenvolvido em React Native com Expo para apresentar produtos de uma loja online. O aplicativo consome dados de uma API REST utilizando Axios e organiza os produtos por categorias masculinas e femininas.
 
