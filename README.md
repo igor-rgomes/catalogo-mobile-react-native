@@ -70,10 +70,3 @@ https://dummyjson.com
 
 ## Autor
 Igor Gomes
-
-Depois rode:
-```bash
-git add .
-git commit -m "Atualizando README do projeto"
-git push
-```
