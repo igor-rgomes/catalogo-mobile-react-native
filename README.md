@@ -35,19 +35,42 @@ src/
 
 ## Como executar o projeto
 
+## Como executar o projeto
+
+### Pré-requisitos
+
+Antes de executar o projeto, é necessário ter instalado:
+
+- Node.js (versão LTS recomendada)  
+  https://nodejs.org
+
+- Expo Go no celular  
+  - Android: https://play.google.com/store/apps/details?id=host.exp.exponent  
+  - iOS: https://apps.apple.com/app/expo-go/id982107779
+
+### Passos para executar
+
 1. Clonar o repositório
-  git clone https://github.com/igor-gomes/catalogo-mobile-react-native.git
-
-2. Entrar na pasta
-  cd catalogo-mobile
-
-3. Instalar dependências
-  npm install
-
+   ```bash
+   git clone https://github.com/igor-rgomes/catalogo-mobile-react-native.git
+   ```
+2. Entrar na pasta do projeto
+    ```bash
+   cd catalogo-mobile-react-native
+   ```
+3. Instalar as dependências do projeto
+    ```bash
+   npm install
+   ```
 4. Executar o projeto
-  npx expo start
-
-5. Abrir no celular com o aplicativo **Expo Go**.
+    ```bash
+   npx expo start
+   ```
+5. Abrir no celular
+    ```bash
+    - Abra o aplicativo **Expo Go**
+    - Escaneie o **QR Code** exibido no terminal ou no navegador
+   ```
 
 ## API utilizada
 ```bash
